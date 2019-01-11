@@ -1,10 +1,11 @@
 {
-  "contact":
+  "contact": [
     {
       "nume": "Malureanu",
       "prenume": "Alex",
       "email": "alexmalureanu03@gmail.com",
-      "text": "Imi place",
+      "text": "Super",
       "id": 1
     }
+  ]
 }
